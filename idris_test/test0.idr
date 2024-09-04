@@ -1,6 +1,5 @@
-liida5 : Int -> Int
-liida5 x = x+5
+x : Int
+x = 3
 
-
-a : Int
-a = liida5 3
+y : Int
+y = 4
