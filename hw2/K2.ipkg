@@ -1,6 +1,6 @@
-package hw1
+package K2
 -- version =
-authors = "me"
+-- authors =
 -- maintainers =
 -- license =
 -- brief =
@@ -13,10 +13,10 @@ authors = "me"
 -- langversion
 
 -- packages to add to search path
--- depends =
+depends = contrib
 
 -- modules to install
--- modules =
+modules = K2
 
 -- main file (i.e. file to load at REPL)
 -- main =
@@ -24,7 +24,7 @@ authors = "me"
 -- name of executable
 -- executable =
 -- opts =
-sourcedir = "hw1"
+-- sourcedir =
 -- builddir =
 -- outputdir =
 
